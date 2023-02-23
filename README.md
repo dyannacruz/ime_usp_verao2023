@@ -5,3 +5,5 @@ Introdução à programação utilizando a linguagem "C".
 - Professor: Bernardo Martins.
 - Coordenador do curso: Leônidas de Oliveira Brandão.
 - Nota final: 91,67.
+
+Leitura complementar: Livro "C completo e Total".
