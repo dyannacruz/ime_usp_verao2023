@@ -1,5 +1,5 @@
 # ime_usp_verao2023
-Introdução à programação utilizando a linguagem "C".
+Curso de Etensão Universitária em Introdução à programação, utilizando a linguagem "C".
 
 - IES: IME USP.
 - Professor: Bernardo Martins.
